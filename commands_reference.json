@@ -1,0 +1,412 @@
+{
+  "Auto-reply": [
+    {
+      "name": "autoreply-add",
+      "description": "لاضافة رد تلقائي",
+      "file": "autoreply-add.js"
+    },
+    {
+      "name": "autoreply-list",
+      "description": "لرؤية جميع الردود",
+      "file": "autoreply-list.js"
+    },
+    {
+      "name": "autoreply-remove",
+      "description": "لازالة رد تلقائي",
+      "file": "autoreply-remove.js"
+    }
+  ],
+  "Auto-role": [
+    {
+      "name": "add-button",
+      "description": "اضافة زر للرتبة أخرى",
+      "file": "add-button.js"
+    },
+    {
+      "name": "new-panel",
+      "description": "لاضافة بنل اعطاء رتب",
+      "file": "new-panel.js"
+    }
+  ],
+  "Autoline": [
+    {
+      "name": "add-autoline-channel",
+      "description": "اضافة روم خط تلقائي",
+      "file": "add-autoline-channel.js"
+    },
+    {
+      "name": "line-mode",
+      "description": "اختر بين إرسال صورة أو رابط",
+      "file": "line-mode.js"
+    },
+    {
+      "name": "remove-autoline-channel",
+      "description": "ازالة روم خط تلقائي",
+      "file": "remove-autoline-channel.js"
+    },
+    {
+      "name": "set-autoline-line",
+      "description": "تحديد الخط",
+      "file": "set-line.js"
+    }
+  ],
+  "Broadcast": [
+    {
+      "name": "remove-all-tokens",
+      "description": "إزالة جميع بوتات البرودكاست",
+      "file": "remove-all-tokens.js"
+    },
+    {
+      "name": "remove-token",
+      "description": "إزالة توكن برودكاست",
+      "file": "remove-token.js"
+    },
+    {
+      "name": "send-broadcast-panel",
+      "description": "ارسال بانل التحكم في البرودكاست",
+      "file": "send-panel.js"
+    }
+  ],
+  "Feedback": [
+    {
+      "name": "feedback-mode",
+      "description": "امبد أو رياكشن فقط",
+      "file": "feedback-mode.js"
+    },
+    {
+      "name": "set-feedback-room",
+      "description": "تحديد روم الاراء",
+      "file": "set-feedback-room.js"
+    },
+    {
+      "name": "set-feedback-line",
+      "description": "تحديد الخط",
+      "file": "set-line.js"
+    },
+    {
+      "name": "setup-rating",
+      "description": "تسطيب اعدادات التقييم",
+      "file": "setup-rating.js"
+    }
+  ],
+  "General": [
+    {
+      "name": "copy-emoji",
+      "description": "لنسخ ايموجي",
+      "file": "copy.js"
+    },
+    {
+      "name": "help",
+      "description": "قائمة اوامر البوت",
+      "file": "help.js"
+    },
+    {
+      "name": "ping",
+      "description": "لتجربة سرعة البوت",
+      "file": "ping.js"
+    },
+    {
+      "name": "set-shortcut",
+      "description": "تحديد اختصار لأمر معين",
+      "file": "set-shortcut.js"
+    }
+  ],
+  "Giveaway": [
+    {
+      "name": "gend",
+      "description": "انهاء جيف اواي",
+      "file": "gend.js"
+    },
+    {
+      "name": "greroll",
+      "description": "اعادة فائزين جيف اواي",
+      "file": "greroll.js"
+    },
+    {
+      "name": "gstart",
+      "description": "بدأ جيف اواي",
+      "file": "gstart.js"
+    }
+  ],
+  "Logs": [
+    {
+      "name": "logs-info",
+      "description": "معلومات نظام اللوج في السيرفر",
+      "file": "log-info.js"
+    },
+    {
+      "name": "setup-logs",
+      "description": "تسطيب نظام اللوج",
+      "file": "setup-log.js"
+    }
+  ],
+  "Nadeko": [
+    {
+      "name": "add-nadeko-room",
+      "description": "اضافة روم يتم تفعيل الخاصية فيها",
+      "file": "add-nadeko-room.js"
+    },
+    {
+      "name": "remove-nadeko-room",
+      "description": "ازالة روم مفعل الخاصية فيها",
+      "file": "remove-nadeko-room.js"
+    },
+    {
+      "name": "set-message",
+      "description": "تحديد الرسالة عند الدخول",
+      "file": "set-message.js"
+    }
+  ],
+  "Suggestions": [
+    {
+      "name": "set-suggestions-line",
+      "description": "تحديد الخط",
+      "file": "set-line.js"
+    },
+    {
+      "name": "set-suggestions-room",
+      "description": "تحديد روم الاقتراحات",
+      "file": "set-suggestions-room.js"
+    },
+    {
+      "name": "suggestion-mode",
+      "description": "أزرار أو رياكشنات",
+      "file": "suggestion-mode.js"
+    }
+  ],
+  "System": [
+    {
+      "name": "add-info-button",
+      "description": "إضافة زر برسالة محددة",
+      "file": "add-info-button.js"
+    },
+    {
+      "name": "avatar",
+      "description": "رؤية افاتارك او شخص اخر",
+      "file": "avatar.js"
+    },
+    {
+      "name": "ban",
+      "description": "اعطاء بان لشخص او ازالته",
+      "file": "ban.js"
+    },
+    {
+      "name": "banner",
+      "description": "رؤية بانرك او شخص اخر",
+      "file": "banner.js"
+    },
+    {
+      "name": "clear",
+      "description": "حذف عدد من الرسائل",
+      "file": "clear.js"
+    },
+    {
+      "name": "come",
+      "description": "استدعاء شخص",
+      "file": "come.js"
+    },
+    {
+      "name": "embed",
+      "description": "قول كلام في ايمبد",
+      "file": "embed.js"
+    },
+    {
+      "name": "hide",
+      "description": "اخفاء الروم",
+      "file": "hide.js"
+    },
+    {
+      "name": "kick",
+      "description": "اعطاء طرد لشخص او ازالته",
+      "file": "kick.js"
+    },
+    {
+      "name": "lock",
+      "description": "قفل الروم",
+      "file": "lock.js"
+    },
+    {
+      "name": "mute",
+      "description": "اعطاء ميوت لشخص او ازالته",
+      "file": "mute.js"
+    },
+    {
+      "name": "nickname",
+      "description": "اعطاء اسم مستعار لشخص او ازالته",
+      "file": "nickname.js"
+    },
+    {
+      "name": "role",
+      "description": "اعطاء رتبة لشخص او ازالتها",
+      "file": "role.js"
+    },
+    {
+      "name": "roles",
+      "description": "للاستعلام عن رتب السيرفر",
+      "file": "roles.js"
+    },
+    {
+      "name": "say",
+      "description": "قول كلام",
+      "file": "say.js"
+    },
+    {
+      "name": "send",
+      "description": "لارسال رسالة لشخص ما",
+      "file": "send.js"
+    },
+    {
+      "name": "server",
+      "description": "رؤية معلومات السيرفر   ",
+      "file": "server.js"
+    },
+    {
+      "name": "setup-welcome",
+      "description": "إعدادات الترحيب",
+      "file": "setup-welcome.js"
+    },
+    {
+      "name": "timeout",
+      "description": "اعطاء تايم اوت لشخص او ازالته",
+      "file": "timeout.js"
+    },
+    {
+      "name": "unhide",
+      "description": "اظهار الروم",
+      "file": "unhide.js"
+    },
+    {
+      "name": "unlock",
+      "description": "فتح الروم",
+      "file": "unlock.js"
+    },
+    {
+      "name": "user",
+      "description": "رؤية معلومات حسابك او شخص اخر",
+      "file": "user.js"
+    }
+  ],
+  "Tax": [
+    {
+      "name": "set-tax-line",
+      "description": "تحديد الخط",
+      "file": "set-tax-line.js"
+    },
+    {
+      "name": "set-tax-room",
+      "description": "تحديد روم الضريبة التلقائية",
+      "file": "set-tax-room.js"
+    },
+    {
+      "name": "tax-mode",
+      "description": "اختيار بين استخدام امبد أو رسالة عادية",
+      "file": "tax-mode.js"
+    },
+    {
+      "name": "tax",
+      "description": "معرفة ضريبة رقم",
+      "file": "tax.js"
+    }
+  ],
+  "Ticket": [
+    {
+      "name": "add-ticket-button",
+      "description": "تثبيت التذكرة",
+      "file": "add-ticket-button.js"
+    },
+    {
+      "name": "add-user",
+      "description": "Add a user to the current ticket channel",
+      "file": "add-user.js"
+    },
+    {
+      "name": "close",
+      "description": "Close the current ticket channel",
+      "file": "close.js"
+    },
+    {
+      "name": "delete",
+      "description": "Delete the current ticket channel",
+      "file": "delete.js"
+    },
+    {
+      "name": "remove-user",
+      "description": "Remove a user from the current ticket channel",
+      "file": "remove-user.js"
+    },
+    {
+      "name": "rename",
+      "description": "Rename the current ticket channel",
+      "file": "rename.js"
+    },
+    {
+      "name": "set-ticket-log",
+      "description": "تحديد روم اللوغ",
+      "file": "set-ticket-log.js"
+    },
+    {
+      "name": "setup-ticket",
+      "description": "تثبيت التذكرة",
+      "file": "setup-ticket.js"
+    },
+    {
+      "name": "to-select",
+      "description": "تحويل التكت الى سلكت منيو",
+      "file": "to-select.js"
+    }
+  ],
+  "apply": [
+    {
+      "name": "close-apply",
+      "description": "انهاء التقديم المفتوح",
+      "file": "close-apply.js"
+    },
+    {
+      "name": "dm-mode",
+      "description": "ارسال رسالة لخاص المتقدم عند الرفض او القبول",
+      "file": "dm mode.js"
+    },
+    {
+      "name": "new-apply",
+      "description": "انشاء تقديم جديد",
+      "file": "new-apply.js"
+    },
+    {
+      "name": "setup-apply",
+      "description": "تسطيب نظام التقديم",
+      "file": "setup-apply.js"
+    }
+  ],
+  "protection": [
+    {
+      "name": "anti-ban",
+      "description": "تسطيب نظام الحماية من الباند",
+      "file": "anti-ban.js"
+    },
+    {
+      "name": "anti-bots",
+      "description": "تسطيب نظام الحماية من البوتات",
+      "file": "anti-bots.js"
+    },
+    {
+      "name": "anti-delete-roles",
+      "description": "تسطيب نظام الحماية من حظر الرتب",
+      "file": "anti-delete-roles.js"
+    },
+    {
+      "name": "anti-delete-rooms",
+      "description": "تسطيب نظام الحماية من حذف الرومات",
+      "file": "anti-delete-rooms.js"
+    },
+    {
+      "name": "protection-status",
+      "description": "للاستعلام عن حالة نظام الحماية",
+      "file": "logs-status.js"
+    },
+    {
+      "name": "set-protect-logs",
+      "description": "لتحديد روم لوج الحماية",
+      "file": "set-logs.js"
+    }
+  ]
+}
